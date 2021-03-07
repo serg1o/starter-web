@@ -6,3 +6,5 @@ one more
 paragraph
 
 p2
+
+copiright notice
