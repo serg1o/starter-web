@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-#addinh a linf
+#addinh a linf, then more changes from myfeature branch too
