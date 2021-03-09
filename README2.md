@@ -12,3 +12,6 @@ copiright notice
 please fork this repo
 
 chnages of stash example
+
+more stash changes
+
