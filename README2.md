@@ -10,3 +10,5 @@ p2
 copiright notice
 
 please fork this repo
+
+chnages of stash example
